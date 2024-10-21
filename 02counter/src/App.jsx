@@ -23,11 +23,11 @@ function App() {
       <h1>Hello Im Learning React JS</h1>
       <h3>Counter value:{counter}</h3>
 
-      <button onClick={addValue}>Add Value{counter}</button>
+      <button onClick={addValue}>Add Value</button>
       <br />
       <br />
 
-      <button onClick={removevalue}>Remove Value {counter}</button>
+      <button onClick={removevalue}>Remove Value</button>
       <p>footer:{counter}</p>
     </>
   );
